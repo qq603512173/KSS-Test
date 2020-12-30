@@ -1,0 +1,13 @@
+{
+    "title": "OZL",
+    "source": [
+        "./css"
+    ],
+    "destination": "docs/",
+    "css": [
+        "../css/style.css"
+    ],
+    "js": [
+        "../js/docs.js"
+    ]
+}
